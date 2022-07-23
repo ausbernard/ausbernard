@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/-blog-d17f79" />
 </div>
 <div id="information" align="center">
-<p>we simply use this for testing purposes and learning things.</p>
+<p>strictly educational.</p>
 </div>
 <br>
 <br>
