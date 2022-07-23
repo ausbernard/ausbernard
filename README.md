@@ -8,4 +8,12 @@
 <div id="information" align="center">
 <p>we simply use this for testing purposes and learning things.</p>
 </div>
+<br>
+<br>
 
+<div id="languages" align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="50" height="50"/>&nbsp;
+</div>
+<!---
+https://github.com/devicons/devicon/tree/master/icons
+-->
