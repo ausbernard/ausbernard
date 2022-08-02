@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/-blog-d17f79" />
 </div>
 <div id="information" align="center">
-<p>strictly for educational learning purposes.</p>
+<p>the path I took in life reflects my knowledge thirst for what is out there and what is capable of being achieved.</p>
 </div>
 <br>
 <br>
