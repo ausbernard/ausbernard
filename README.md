@@ -14,7 +14,7 @@
 ### SEEDS
 First, I had to gather the core of it all - Curiosity.
 
-<div id="curiosity_vid">
+<div id="curiosity_vid" align="center">
   <a href="https://www.youtube.com/watch?v=nmZR_JsLCfg">
     <img src="https://i.ytimg.com/vi/UqlYyI_HbdA/maxresdefault.jpg" title="Watch Video!" width="500" height="300" />
   </a>
