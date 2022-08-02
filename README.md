@@ -14,7 +14,11 @@
 ### SEEDS
 First, I had to gather the core of it all - Curiosity.
 
-[![Watch the video](https://i.ytimg.com/vi/UqlYyI_HbdA/maxresdefault.jpg)](https://www.youtube.com/watch?v=nmZR_JsLCfg)
+<div id="curiosity_vid">
+  <a href="https://www.youtube.com/watch?v=nmZR_JsLCfg">
+    <img src="https://i.ytimg.com/vi/UqlYyI_HbdA/maxresdefault.jpg" title="Watch Video!" width="500" height="300" />
+  </a>
+ </div>
 
 ### WATER
 Then, curiosity needed an active adventure:
@@ -25,3 +29,6 @@ Then, curiosity needed an active adventure:
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="50" height="50"/>&nbsp;
 
 </div>
+
+### TIME
+Time needed 
