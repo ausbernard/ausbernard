@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img title="bebop!" height="200" src="https://media.giphy.com/media/AUyitEgF5C3xR13Ha3/giphy.gif">
+</p>
 <p align="center">
   <img title="bebop!" width="400" src="https://media.giphy.com/media/T7G2xYFi39sx1s6ZUZ/giphy.gif">
 </p>
