@@ -29,7 +29,9 @@ To keep things simple, I'm here for the moments I enjoy and that is teaching oth
 <p>
 <b>Currently Reading:</b> The Go Programming Language: Variables
 <br>
-<b>Currently Building:</b> Go: API & HTML/CSS: Learning to Code Website
+<b>Currently Building:</b> 
+<br>
+<b>Ask Me About:</b> 
 </p>
 
 
