@@ -3,7 +3,7 @@
   <img title="bebop!" width="400" src="https://media.giphy.com/media/T7G2xYFi39sx1s6ZUZ/giphy.gif">
 </p>
 <h2 align="center">
-  <img width="60" src="https://media.giphy.com/media/aCi7hlUqejenhbqNiT/giphy.gif">
+  <img title="gas!" width="60" src="https://media.giphy.com/media/aCi7hlUqejenhbqNiT/giphy.gif">
   Hey, I'm Austin! 
 </h2>
 
@@ -13,7 +13,7 @@ To keep things simple, I'm here for the moments I enjoy and that is teaching oth
 </h2>
 <div id="mentees" align="center">
   <img src="https://pentagram-production.imgix.net/b15b2c7e-c7a8-428c-8060-749d8293de1d/ps_redhat_01.jpg?crop=edges&fit=crop&h=630&rect=7%2C0%2C2988%2C1871&w=1200" title="Redhat" alt="Redhat" width="200" height="200"/>&nbsp;
-  <img src="https://www.underconsideration.com/brandnew/archives/cloudreach_logo_animation_b.gif" title="Python" alt="Python" width="200" height="200"/>&nbsp;
+  <img src="https://www.underconsideration.com/brandnew/archives/cloudreach_logo_animation_b.gif" title="Cloudreach" alt="Cloudreach" width="200" height="200"/>&nbsp;
 <h2 align="center">
   Toolbag
 </h2>
