@@ -29,11 +29,11 @@ To keep things simple, I'm here for the moments I enjoy and that is teaching oth
 </h2>
 <div id="upto" align="left">
 <p>
-<b>Currently Reading:</b> The Go Programming Language: Variables
+<b>Currently Reading:</b> Introduction to Algorithms
 <br>
-<b>Currently Building:</b> 
+<b>Currently Building:</b> Working through Euler Project code problems building a repo of answers
 <br>
-<b>Ask Me About:</b> 
+<b>Ask Me About:</b> My journey on learning with algorithms and Python
 </p>
 
 
