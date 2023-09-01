@@ -9,7 +9,7 @@
   Hey, I'm Austin! 
 </h2>
 
-To keep things simple, I'm here for the moments I enjoy and that is teaching others difficult topics. My first student was myself. Battling depression and anxiety I found computers to be a great outlet to process because computers were just 0's and 1's. I started teaching myself Logical Thinking (**on EdX**). Then I moved to Python (**MITx**). At this point I was hooked and a buddy brought me into the world of Linux & Bash. Open Source has been great for me and I have adopted it in the way I mentor and teach others learning how to code. I currently work as a Systems Engineer and yeah, the rest I'm finding out. ⚡
+To keep things simple, I'm here for the moments I enjoy and that is teaching others difficult topics. My first student was myself. Battling depression and anxiety I found computers to be a great outlet to process because computers were just 0's and 1's. I started teaching myself Logical Thinking (**on EdX**). Then I moved to Python (**MITx**). At this point I was hooked and a buddy brought me into the world of Linux & Bash. Open Source has been great for me and I have adopted it in the way I mentor and teach others learning how to code. I currently work as a Systems Engineer II and yeah, the rest I'm finding out. ⚡
 <h2 align="center">
   My Mentees Now Work At
 </h2>
