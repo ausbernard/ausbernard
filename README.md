@@ -8,7 +8,7 @@
   <img title="gas!" width="60" src="https://media.giphy.com/media/aCi7hlUqejenhbqNiT/giphy.gif">
   Hey, I'm Austin! 
 </h2>
-I used to be an athlete. Now I tinker with learning and building small things. Hit me up! Oh, I used to teach as a substitute which probably gives me more credibility.⚡
+I used to be an athlete. Now I tinker with learning and building small things. Hit me up! Oh, I used to be a substitute teacher which probably gives me more credibility.⚡
 <h2 align="center">
   My Mentees Now Work At
 </h2>
@@ -19,16 +19,16 @@ I used to be an athlete. Now I tinker with learning and building small things. H
   Toolbag
 </h2>
 <div id="languages" align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="50" height="50"/>&nbsp;
 </div>
 <h2 align="center">
   What Am I Up To?
 </h2>
 <div id="upto" align="left">
 <p>
-<b>Tinkering with Tkinter & CustomTkinter Widgets
+<b>Tinkering with CustomTkinter Widgets
 
 
 
