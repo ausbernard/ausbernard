@@ -8,7 +8,7 @@
   <img title="gas!" width="60" src="https://media.giphy.com/media/aCi7hlUqejenhbqNiT/giphy.gif">
   Hey, I'm Austin! 
 </h2>
-I used to be an athlete. Now I tinker with learning and building small things. Hit me up! Oh, I used to be a substitute teacher which probably gives me more credibility.⚡
+  <p align="center">I used to be an athlete. Now I tinker with learning and building small things. Hit me up! Oh, I used to be a substitute teacher which probably gives me more credibility.⚡</p>
 <h2 align="center">
   My Mentees Now Work At
 </h2>
@@ -28,7 +28,7 @@ I used to be an athlete. Now I tinker with learning and building small things. H
 </h2>
 <div id="upto" align="left">
 <p>
-<b>Tinkering with CustomTkinter Widgets
+<p align="center">Tinkering with CustomTkinter Widgets<p>
 
 
 
