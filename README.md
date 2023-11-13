@@ -8,9 +8,9 @@
   <img title="gas!" width="60" src="https://media.giphy.com/media/aCi7hlUqejenhbqNiT/giphy.gif">
   Hey, I'm Austin! 
 </h2>
-  <p align="center">I used to be an athlete. Now I tinker with learning and building small things. Hit me up! Oh, I used to be a substitute teacher which probably gives me more credibility.⚡</p>
+  <p align="center">I used to be an athlete. Now I tinker with learning and building small things. I built something with tkinter one time but I can't remember how it turned out. Oh, I used to be a substitute teacher which probably gives me more credibility.⚡</p>
 <h2 align="center">
-  My Mentees Now Work At
+  I Do Have Mentees That Currently Work At
 </h2>
 <div id="mentees" align="center">
   <img src="https://pentagram-production.imgix.net/b15b2c7e-c7a8-428c-8060-749d8293de1d/ps_redhat_01.jpg?crop=edges&fit=crop&h=630&rect=7%2C0%2C2988%2C1871&w=1200" title="Redhat" alt="Redhat" width="200" height="200"/>&nbsp;
@@ -24,11 +24,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="50" height="50"/>&nbsp;
 </div>
 <h2 align="center">
-  What Am I Up To?
+  What Am I Cooking Up?
 </h2>
 <div id="upto" align="left">
-<p>
-<p align="center">Tinkering with CustomTkinter Widgets<p>
+<p>Ruebot</p>
 
 
 
