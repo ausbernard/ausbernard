@@ -8,7 +8,7 @@
   <img title="gas!" width="60" src="https://media.giphy.com/media/aCi7hlUqejenhbqNiT/giphy.gif">
   Hey, I'm Austin! 
 </h2>
-  <p align="center">I tinker with learning and building small things. I built something with tkinter one time but I can't remember how it turned out. Oh, I used to be a substitute teacher which probably gives me more credibility.⚡</p>
+  <p align="center">I tinker with learning and building small things. I used to be a substitute teacher which probably gives me more credibility.⚡</p>
 <h2 align="center">
   I Do Have Mentees That Currently Work At
 </h2>
