@@ -8,7 +8,7 @@
   <img title="gas!" width="60" src="https://media.giphy.com/media/aCi7hlUqejenhbqNiT/giphy.gif">
   Hey, I'm Austin! 
 </h2>
-  <p align="center">I tinker with learning and building small things. I used to be a substitute teacher which probably gives me more credibility. I love learning and mentoring⚡</p>
+  <p align="center">I tinker with learning and building small things. I used to be a substitute teacher which probably gives me more credibility. I love learning and mentoring.⚡</p>
 <h2 align="center">
   I Do Have Mentees That Currently Work At
 </h2>
