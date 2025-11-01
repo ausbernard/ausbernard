@@ -1,16 +1,13 @@
 
 ### Ello Motto 👋
-**A Software / DevOps Engineer by day ☼ and a neocity Contributor by night ☾**
-
 **🚀 I build and automate systems that make software delivery effortless.**
 
 Software Engineer @ THD;
 
-- ⚙️ I use daily: `.py`, `.js`, `.sh`, `.yaml`, `.json`
-- 🌍 I'm mostly active on my personal site. s/o neocities
-- 💅 DevOps & Cloud: Docker, Kubernetes, Terraform, GitHub Actions, Jenkins, GCP  
-- 💬 `hit` me about reusable workflows, gh-actions, actions, development, ci/cd thinking
-
+- ✨ I use daily: `.py`, `.js`, `.sh`, `.yaml`, `.json`
+- 🛰️ I'm mostly active on my personal site. s/o neocities
+- 🛠️ DevOps & Cloud: Docker, Kubernetes, Terraform, GitHub Actions, Jenkins, GCP  
+- 🧶 `msg` me up about reusable workflows, gh-actions, actions, development, ci/cd thinking
 
 
 **🧪 Codewars Stats**
