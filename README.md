@@ -6,8 +6,6 @@
 
 Software Engineer @ THD;
 
-Host/Organizing Laracon EU;
-
 - ⚙️ I use daily: `.py`, `.js`, `.sh`, `.yaml`, `.json`
 - 🌍 I'm mostly active on my personal site. s/o neocities
 - 💅 DevOps & Cloud: Docker, Kubernetes, Terraform, GitHub Actions, Jenkins, GCP  
@@ -31,15 +29,3 @@ Host/Organizing Laracon EU;
 | [🚀 fastapi-cicd-pipeline](https://github.com/YOUR_GITHUB_USERNAME/fastapi-cicd-pipeline) | CI/CD pipeline deploying FastAPI to AWS |
 | [🧱 k8s-gitops-fastapi](https://github.com/YOUR_GITHUB_USERNAME/k8s-gitops-fastapi) | Kubernetes GitOps deployment with ArgoCD |
 | [🧭 devops-management-api](https://github.com/YOUR_GITHUB_USERNAME/devops-management-api) | Backend API for managing CI/CD jobs and infrastructure |
-
-
----
-
-### 🌐 Connect With Me
-[💼 LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)  
-[🧠 Portfolio](https://YOUR_PORTFOLIO_URL)  
-📫 **Let’s collaborate on automation, APIs, or cloud architecture!**
-
----
-
-⭐ *Pinned repos below highlight my DevOps and Software Engineering projects.*
