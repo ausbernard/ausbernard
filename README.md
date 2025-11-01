@@ -9,7 +9,7 @@ Software Engineer @ THD;
 - ⚙️ I use daily: `.py`, `.js`, `.sh`, `.yaml`, `.json`
 - 🌍 I'm mostly active on my personal site. s/o neocities
 - 💅 DevOps & Cloud: Docker, Kubernetes, Terraform, GitHub Actions, Jenkins, GCP  
-- 💬 ping me about reusable workflows, gh-actions, actions, development, ci/cd thinking
+- 💬 `hit` me about reusable workflows, gh-actions, actions, development, ci/cd thinking
 
 
 
