@@ -1,27 +1,45 @@
-<p align="center">
-  <img title="bebop!" height="200" src="https://media.giphy.com/media/AUyitEgF5C3xR13Ha3/giphy.gif">
-</p>
-<p align="center">
-  <img title="bebop!" width="400" src="https://media.giphy.com/media/T7G2xYFi39sx1s6ZUZ/giphy.gif">
-</p>
-<h2 align="center">
-  <img title="gas!" width="60" src="https://media.giphy.com/media/aCi7hlUqejenhbqNiT/giphy.gif">
-  Hey, I'm Austin! 
-</h2>
-  <p align="center">I tinker with learning and building small things. I used to be a substitute teacher which probably gives me more credibility. I love learning and mentoring.⚡</p>
-<h2 align="center">
-  I Do Have Mentees That Currently Work At
-</h2>
-<div id="mentees" align="center">
-  <img src="https://pentagram-production.imgix.net/b15b2c7e-c7a8-428c-8060-749d8293de1d/ps_redhat_01.jpg?crop=edges&fit=crop&h=630&rect=7%2C0%2C2988%2C1871&w=1200" title="Redhat" alt="Redhat" width="200" height="200"/>&nbsp;
-  <img src="https://www.underconsideration.com/brandnew/archives/cloudreach_logo_animation_b.gif" title="Cloudreach" alt="Cloudreach" width="200" height="200"/>&nbsp;
-<h2 align="center">
-  Toolbag
-</h2>
-<div id="languages" align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="50" height="50"/>&nbsp;
-</div>
+
+### Ello Motto 👋
+**A Software / DevOps Engineer by day ☼ and a neocity Contributor by night ☾**
+
+**🚀 I build and automate systems that make software delivery effortless.**
+
+Software Engineer @ THD;
+
+Host/Organizing Laracon EU;
+
+- ⚙️ I use daily: `.py`, `.js`, `.sh`, `.yaml`, `.json`
+- 🌍 I'm mostly active on my personal site. s/o neocities
+- 💅 DevOps & Cloud: Docker, Kubernetes, Terraform, GitHub Actions, Jenkins, GCP  
+- 💬 ping me about reusable workflows, gh-actions, actions, development, ci/cd thinking
 
 
 
+**🧪 Codewars Stats**
+
+> 🥋 Practicing algorithms and problem-solving daily — currently ranked **4 kyu**
+
+[![Codewars](https://www.codewars.com/users/nyleso/badges/large)](https://www.codewars.com/users/nyleso)
+
+---
+
+### 🏗️ Featured Projects
+| Project | Description |
+|----------|-------------|
+| [🛠️ ci-template-python](https://github.com/YOUR_GITHUB_USERNAME/ci-template-python) | Reusable CI/CD pipeline template for Python apps |
+| [☁️ iac-infra-demo](https://github.com/YOUR_GITHUB_USERNAME/iac-infra-demo) | Terraform + Ansible hybrid infrastructure provisioning |
+| [🚀 fastapi-cicd-pipeline](https://github.com/YOUR_GITHUB_USERNAME/fastapi-cicd-pipeline) | CI/CD pipeline deploying FastAPI to AWS |
+| [🧱 k8s-gitops-fastapi](https://github.com/YOUR_GITHUB_USERNAME/k8s-gitops-fastapi) | Kubernetes GitOps deployment with ArgoCD |
+| [🧭 devops-management-api](https://github.com/YOUR_GITHUB_USERNAME/devops-management-api) | Backend API for managing CI/CD jobs and infrastructure |
+
+
+---
+
+### 🌐 Connect With Me
+[💼 LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)  
+[🧠 Portfolio](https://YOUR_PORTFOLIO_URL)  
+📫 **Let’s collaborate on automation, APIs, or cloud architecture!**
+
+---
+
+⭐ *Pinned repos below highlight my DevOps and Software Engineering projects.*
