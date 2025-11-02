@@ -18,10 +18,10 @@ Software Engineer @ THD;
 
 ---
 
-### 🏗️ Featured Projects
+### ✨ 🍰 ✨ Featured Projects
 | Project | Description |
 |----------|-------------|
-| [🛠️ ci-template-python](https://github.com/YOUR_GITHUB_USERNAME/ci-template-python) | Reusable CI/CD pipeline template for Python apps |
+| [🛠️ python-ci-pavedroad](https://github.com/ausbernard/python-ci-pavedroad) | Reusable CI pipeline for Python apps with sample app |
 | [☁️ iac-infra-demo](https://github.com/YOUR_GITHUB_USERNAME/iac-infra-demo) | Terraform + Ansible hybrid infrastructure provisioning |
 | [🚀 fastapi-cicd-pipeline](https://github.com/YOUR_GITHUB_USERNAME/fastapi-cicd-pipeline) | CI/CD pipeline deploying FastAPI to AWS |
 | [🧱 k8s-gitops-fastapi](https://github.com/YOUR_GITHUB_USERNAME/k8s-gitops-fastapi) | Kubernetes GitOps deployment with ArgoCD |
