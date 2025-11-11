@@ -21,8 +21,8 @@ Software Engineer @ THD;
 ### ✨ 🍰 ✨ Featured Projects
 | Project | Description |
 |----------|-------------|
-| [🛠️ python-ci-pavedroad](https://github.com/ausbernard/python-ci-pavedroad) | Reusable CI pipeline for Python apps with sample app |
-| [☁️ iac-infra-demo](#) | Terraform + Ansible hybrid infrastructure provisioning |
-| [🚀 fastapi-cicd-pipeline](#) | CI/CD pipeline deploying FastAPI to AWS |
-| [🧱 k8s-gitops-fastapi](#) | Kubernetes GitOps deployment with ArgoCD |
-| [🧭 devops-management-api](#) | Backend API for managing CI/CD jobs and infrastructure |
+| [🛠️ python-ci-pavedroad](https://github.com/ausbernard/python-ci-pavedroad) | Reusable CI pipeline for Python apps with sample app. |
+| [🚀 jobflow](https://github.com/ausbernard/jobflow) | A learning project to build a distributed job orchestration system in Flask. |
+| [🧱 flask-api-template](https://github.com/ausbernard/flask-api-template) |  Template for building and bootstrapping new Flask API applications. |
+| [☁️ tbd](#) | tbd |
+| [🧭 tbd](#) | tbd |
