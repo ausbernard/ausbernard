@@ -7,7 +7,7 @@ Software Engineer @ THD;
 - ✨ I use daily: `.py`, `.toml`, `.js`, `.sh`, `.yaml`, `.json`, `.ini`, `.md`. I love a `.md`.
 - 🛰️ I'm mostly active on my personal [site](https://ausbernard.github.io/). s/o neocities
 - 🛠️ DevOps & Cloud: Docker, Kubernetes, Terraform, GitHub Actions, Jenkins, GCP  
-- 🧶 `msg` me up about reusable workflows, gh-actions, actions, development, ci/cd thinking
+- 👾 hmu on discord if you want to chat: `abeskate`
 
 
 **🧪 Codewars Stats**
