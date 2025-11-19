@@ -24,5 +24,5 @@ Software Engineer @ THD;
 | [🛠️ python-ci-pavedroad](https://github.com/ausbernard/python-ci-pavedroad) | Reusable CI pipeline for Python apps with sample app. |
 | [🚀 jobflow](https://github.com/ausbernard/jobflow) | A learning project to build a distributed job orchestration system in Flask. |
 | [🧱 flask-api-template](https://github.com/ausbernard/flask-api-template) |  Template for building and bootstrapping new Flask API applications. |
-| [☁️ tbd](#) | tbd |
+| [☁️ grokking-algo-study-group](https://github.com/ausbernard/grokking-algorithms-study-group) | A collaborative, week-by-week journey through Aditya Bhargava’s “Grokking Algorithms. |
 | [🧭 tbd](#) | tbd |
