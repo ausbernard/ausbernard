@@ -15,9 +15,9 @@ Platform Engineer @ The Home Depot — helping 5,000 engineers ship faster with 
 
 | Repo | Contribution |
 |:---|:---|
-| <img src="https://github.com/spotify.png?size=20" width="20"/> spotify/confidence-sdk-python #114 | Fixed shared mutable class-level context causing data leakage. |
-| <img src="https://github.com/gocardless.png?size=20" width="20"/> gocardless/gocardless-pro-python #129 | Fixed `rate_limit` property returning dict instead of `RateLimit` object. |
-| <img src="https://github.com/gocardless.png?size=20" width="20"/> gocardless/gocardless-pro-python #130 | Added 7 unit tests for `Paginator` class (zero direct coverage before). |
+| <img src="https://github.com/spotify.png?size=20" width="20"/> [spotify/confidence-sdk-python #114](https://github.com/spotify/confidence-sdk-python/issues/114) | Fixed shared mutable class-level context causing data leakage. |
+| <img src="https://github.com/gocardless.png?size=20" width="20"/> [gocardless/gocardless-pro-python #129](https://github.com/gocardless/gocardless-pro-python/issues/129) | Fixed `rate_limit` property returning dict instead of `RateLimit` object. |
+| <img src="https://github.com/gocardless.png?size=20" width="20"/> [gocardless/gocardless-pro-python #130](https://github.com/gocardless/gocardless-pro-python/issues/130) | Added 7 unit tests for `Paginator` class (zero direct coverage before). |
 
 ---
 
