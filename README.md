@@ -7,6 +7,7 @@ Platform Engineer @ The Home Depot — helping 5,000 engineers ship faster with 
 - 🧰 Daily drivers: `.py`, `.toml`, `.js`, `.sh`, `.yaml`, `.json`, `.ini`, and yes — `.md`
 - ☁️ DevOps & Cloud: Docker, Kubernetes, Terraform, GitHub Actions, Jenkins, GCP
 - 📝 Philosophy: Code gives you the tool. Docs give you the confidence. Adoption is what matters.
+- 🖥️ Personal Website: [ausbernard.github.io](https://ausbernard.github.io/)
 - 🎮 Discord: `abeskate` — always down to talk platform engineering or OSS
 
 ---
