@@ -27,7 +27,7 @@ Platform Engineer @ The Home Depot — helping 5,000 engineers ship faster with 
 | Project | Description |
 |:---|:---|
 | [🛠️ python-ci-pavedroad](https://github.com/ausbernard/python-ci-pavedroad) | Reusable CI pipeline for Python apps with sample app — the building block of a 5,000‑engineer paved road. |
-| <img src="https://raw.githubusercontent.com/ausbernard/Farol/main/assets/farol-lighthouse.svg" height="20"/> [Vigia](https://github.com/ausbernard/Vigia) | Read-only proxy of Railway API that reshapes data and surfaces deployment health across projects. Think: one Backstage plugin without Backstage. |
+| <img src="https://raw.githubusercontent.com/ausbernard/Vigia/main/assets/vigia-mark.png" height="20"/> [Vigia](https://github.com/ausbernard/Vigia) | Read-only proxy of Railway API that reshapes data and surfaces deployment health across projects. Think: one Backstage plugin without Backstage. |
 | <img src="https://raw.githubusercontent.com/ausbernard/Cairn/main/assets/logo.png" height="20"/> [Cairn](https://github.com/ausbernard/Cairn) | session-sized planning for peoplez with no free time. |
 
 ### 🧪 Codewars
